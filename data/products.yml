@@ -1,41 +1,34 @@
-- name: Easy Label
-  description: Automatically generate Japan Post shipping labels
+- name: SK8IT App
+  description: This project is a user-driven progressive web application that allows 
+skaters to find new skate shops and parks, upload new skating spots, 
+share videos, and connect with the skating community in Japan.
   image: easylabel.png
-  url: https://apps.shopify.com/easy-label-japan-post
+  url: https://sk8it.herokuapp.com/
   tags:
     - devicon-rails-plain-wordmark
     - devicon-postgresql-plain-wordmark
     - devicon-heroku-original
     - devicon-javascript-plain
 
-- name: Easy Rates
-  description: Display shipping rates from Japan Post in your store
+- name: AirSocks
+  description: Air BnB close for socks
   image: easyrates.png
-  url: https://apps.shopify.com/easy-rates-japan-post
+  url: http://airsocks.herokuapp.com/
   tags:
     - devicon-rails-plain-wordmark
     - devicon-postgresql-plain-wordmark
     - devicon-heroku-original
     - devicon-javascript-plain
 
-- name: Advanced COD
-  description: Cash on delivery app listed on the Shopify store
+- name: Movie Watch List
+  description: Create Movie Watch Lists
   image: advanced_cod.png
-  url: https://apps.shopify.com/advanced-cash-on-delivery-global
+  url: https://limitless-dawn-45374.herokuapp.com/
   tags:
     - devicon-rails-plain-wordmark
     - devicon-postgresql-plain-wordmark
     - devicon-heroku-original
     - devicon-javascript-plain
 
-- name: World Cup Predictor
-  description: Interactive layout to predict the 2018 World Cup results
-  image: worldcup.png
-  url: http://www.worldcuppredict.win/
-  tags:
-    - devicon-react-original-wordmark
-    - devicon-rails-plain-wordmark
-    - devicon-postgresql-plain-wordmark
-    - devicon-heroku-original
-    - devicon-javascript-plain
+
 
